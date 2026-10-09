@@ -1,2 +1,4 @@
 # Programming for AI
-## Assignment 2
+Assignment 1
+
+To launch use Google Colab or Jupyter Notebook
