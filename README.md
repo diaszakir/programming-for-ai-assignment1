@@ -1,1 +1,2 @@
-# programming-for-ai-assignment1
+# Programming for AI
+## Assignment 2
